@@ -1,5 +1,5 @@
-FROM centos:7.9.2009
-LABEL maintainer="pader <huangmnlove@163.com>"
+FROM centos:7.9
+LABEL maintainer="chris <lpl20150013@163.com>"
 
 # set environment
 ENV MODE="cluster" \
