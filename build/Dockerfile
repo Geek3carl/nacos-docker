@@ -1,4 +1,4 @@
-FROM centos:7.9
+FROM fedora:latest
 LABEL maintainer="chris <lpl20150013@163.com>"
 
 # set environment
